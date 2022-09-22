@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArmstrongNumber", "ArmstrongNumber\ArmstrongNumber.csproj", "{3BDB08D1-7D67-4645-9E97-50D2CCA6361A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3BDB08D1-7D67-4645-9E97-50D2CCA6361A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BDB08D1-7D67-4645-9E97-50D2CCA6361A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BDB08D1-7D67-4645-9E97-50D2CCA6361A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BDB08D1-7D67-4645-9E97-50D2CCA6361A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {297AD2C2-9360-430F-9056-D1E825E969D1}
+	EndGlobalSection
+EndGlobal
